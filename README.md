@@ -1,8 +1,5 @@
-**# ReAD
-Offical Code Repo for paper "ReAD: Reinforcement-Guided Capability Distillation for Large Language Models"
-**# ReAD: Reinforcement-guided Capability Distillation under Budget Constraints
-
-Official codebase for **ReAD** (*Re*inforcement-guided c*A*pability *D*istillation), an adaptive capability distillation framework that (i) infers **task-essential capabilities**, (ii) performs **capability-targeted data generation on the fly**, and (iii) uses an **uncertainty-aware contextual bandit** to allocate a fixed distillation budget across **interdependent** capabilities.
+# ReAD: Reinforcement-guided Capability Distillation under Budget Constraints
+Offical Code Repo for **ReAD** (*Re*inforcement-guided c*A*pability *D*istillation), an adaptive capability distillation framework that (i) infers **task-essential capabilities**, (ii) performs **capability-targeted data generation on the fly**, and (iii) uses an **uncertainty-aware contextual bandit** to allocate a fixed distillation budget across **interdependent** capabilities.
 
 ## TL;DR
 We make two empirical observations under a fixed token budget:
